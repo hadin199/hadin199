@@ -145,6 +145,17 @@ overflow: scroll;
 margin-top: 2em;
 margin-left: 20em;
 }
+.prep2{
+	width: 20em;
+height: 30em;
+overflow: scroll;
+margin-top: 2em;
+}
+@media only screen and (min-width: 991px){
+	.prep2{
+		margin-left: 24em;
+	}
+}
 
 
 footer{
@@ -302,8 +313,16 @@ overflow: scroll;
 margin-top: 2em;
 margin-left: 0em;
 }
+.prep2{
+	width: 10em;
+height: 15em;
+overflow: scroll;
+margin-top: 2em;
+margin-left: 0em;
+}
+	
 .picsize{
-width: 45%;
+width: 60%;
 }
 
 
